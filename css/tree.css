@@ -1,0 +1,123 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(../images/images.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+header{
+    margin: 0;
+    padding: 0;
+}
+.headding{
+    padding: 25px;
+    background: #353A40;
+}
+.headding ul{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+.headding ul li{
+    list-style: none;
+    display: inline-block;
+}
+.headding ul li a{
+    text-decoration: none;
+    padding: 45px;
+    font-size: 20px;
+    color: white;
+    font-weight: 900;
+    text-transform: capitalize;
+}
+.headding ul li a img{}
+
+.all{
+    width: 80%;
+    display: inline-block;
+    overflow: hidden;
+    margin-left: 145px;
+    margin-right: auto;
+    margin-top: 204px;
+}
+.container{
+    width: 40%;
+    float: left;
+    margin-left: 10%;
+    text-transform: capitalize;
+    color: white;
+}
+.left{
+    margin-bottom: 0px;
+}
+.left h1{
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+.left p{
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+nav{}
+.contain{
+    padding: 10px 0;
+}
+.contain ul{
+    padding: 0;
+    margin: 0;
+}
+.contain ul li{
+    list-style: none;
+}
+.contain ul li a{}
+.contain button{
+    padding: 5px;
+    text-decoration: none;
+    border-radius: 30px;
+    margin-top: 20px;
+    font-size: 17px;
+    background: #6EBD6C;
+    border: 0px;
+}
+.contain button a{
+    text-decoration: none;
+    font-size: 16px;
+    padding: 5px 20px;
+}
+
+.singup-section{
+    width: 33%;
+    float: left;
+    text-align: center;
+    text-transform: capitalize;
+    color: white;
+    background: #6EBD6C;
+    border-radius: 10px;
+}
+.singup-box{}
+.singup-box h1{
+    font-size: 30px;
+}
+.singup-box p{
+    font-size: 20px;
+}
+
+.sinfup-form{}
+.sinfup-form form{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sinfup-form form label{
+    width: 100%;
+}
+.sinfup-form form input{
+    width: 100%;
+    margin-bottom: 14px;
+    padding: 5px;
+}
+
+
+.submit{font-size: 20px;}
